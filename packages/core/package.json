@@ -1,6 +1,6 @@
 {
   "name": "@freedom-dev-cli/core",
-  "version": "0.1.2",
+  "version": "0.1.0",
   "description": "freedom-dev-cli core",
   "keywords": [
     "cli",
@@ -23,5 +23,5 @@
   "scripts": {
     "test": "echo \"hello word core\""
   },
-  "gitHead": "39955cdd6c3596773e4fa8e9f6f05810ad8ee171"
+  "gitHead": "7b851951814a435aafe9f4575fa61d625a74f7b4"
 }
