@@ -1,6 +1,6 @@
 {
   "name": "@freedom-dev-cli/core",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "freedom-dev-cli core",
   "keywords": [
     "cli",
@@ -19,8 +19,5 @@
   ],
   "scripts": {
     "test": "echo \"hello word core\""
-  },
-  "devDependencies": {
-    "@freedom-dev-cli/utils": "^1.0.0"
   }
 }
