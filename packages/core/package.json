@@ -23,5 +23,8 @@
   "scripts": {
     "test": "echo \"hello word core\""
   },
-  "gitHead": "7b851951814a435aafe9f4575fa61d625a74f7b4"
+  "gitHead": "301a2f3620f10875eb4c0841625459eaa7dc3cd7",
+  "publishConfig": {
+    "access": "public"
+  }
 }
