@@ -18,5 +18,6 @@
   ],
   "scripts": {
     "test": "echo \"Hello word utils\""
-  }
+  },
+  "gitHead": "39955cdd6c3596773e4fa8e9f6f05810ad8ee171"
 }
