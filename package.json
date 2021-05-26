@@ -1,11 +1,11 @@
 {
   "name": "freedom-dev-cli",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
   "description": "freedom-dev-cli dev",
   "devDependencies": {
     "lerna": "^4.0.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "homepage": "https://github.com/freedomyiyanxing/freedom-dev-cli/tree/master"
 }
