@@ -1,0 +1,8 @@
+.vscode
+.idea
+node_modules
+**/**/node_modules
+core/**/node_modules
+lerna-debug.index
+yarn.lock
+package-lock.json
