@@ -12,8 +12,8 @@ const kebabCase = require('kebab-case');
 const Command = require('@freedom-dev-cli/command');
 const Package = require('@freedom-dev-cli/package');
 const log = require('@freedom-dev-cli/log');
-const getProjectTemplate = require('./getProjectTemplate');
 const { spinner, execSpawnAsync, isValidName } = require('@freedom-dev-cli/utils');
+const getProjectTemplate = require('./getProjectTemplate');
 
 const TYPE_PROJECT = 'project';
 const TYPE_COMPONENT = 'component';
@@ -208,6 +208,7 @@ class InitCommand extends Command {
     if (!(Array.isArray(template) && template.length)) {
       throw new Error('模板不存在');
     }
+
     this.template = template;
 
     const localPath = process.cwd();
