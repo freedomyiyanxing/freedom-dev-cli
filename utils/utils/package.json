@@ -19,7 +19,7 @@
   "scripts": {
     "test": "echo \"Hello word utils\""
   },
-  "gitHead": "301a2f3620f10875eb4c0841625459eaa7dc3cd7",
+  "gitHead": "76016cfff99f3ca80754e5bb5f48a1958246439c",
   "publishConfig": {
     "access": "public"
   },

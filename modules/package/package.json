@@ -27,12 +27,13 @@
     "url": "https://github.com/freedomyiyanxing/freedom-dev-cli/issues"
   },
   "dependencies": {
-    "@freedom-dev-cli/format-path": "file:../../utils/format-path",
-    "@freedom-dev-cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@freedom-dev-cli/utils": "file:../../utils/utils",
+    "@freedom-dev-cli/format-path": "^1.2.2",
+    "@freedom-dev-cli/get-npm-info": "^1.2.2",
+    "@freedom-dev-cli/utils": "^1.2.2",
     "fs-extra": "^10.0.0",
     "npminstall": "^4.11.0",
     "path-exists": "^4.0.0",
     "pkg-dir": "^5.0.0"
-  }
+  },
+  "gitHead": "76016cfff99f3ca80754e5bb5f48a1958246439c"
 }
