@@ -1,6 +1,6 @@
 {
-  "name": "get-npm-info",
-  "version": "1.0.0",
+  "name": "@freedom-dev-cli/get-npm-info",
+  "version": "1.0.1",
   "description": "> TODO: description",
   "author": "freedom.yi <851989962freedom.yi@gmail.com>",
   "homepage": "https://github.com/freedomyiyanxing/freedom-dev-cli#readme",
