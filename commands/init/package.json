@@ -1,6 +1,6 @@
 {
   "name": "@freedom-dev-cli/init",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "> TODO: description",
   "author": "freedom.yi <851989962freedom.yi@gmail.com>",
   "homepage": "https://github.com/freedomyiyanxing/freedom-dev-cli#readme",
@@ -27,11 +27,11 @@
     "url": "https://github.com/freedomyiyanxing/freedom-dev-cli/issues"
   },
   "dependencies": {
-    "@freedom-dev-cli/command": "^1.2.2",
-    "@freedom-dev-cli/log": "^1.2.2",
-    "@freedom-dev-cli/package": "^1.2.2",
-    "@freedom-dev-cli/request": "^1.2.2",
-    "@freedom-dev-cli/utils": "^1.2.2",
+    "@freedom-dev-cli/command": "^1.2.3",
+    "@freedom-dev-cli/log": "^1.2.3",
+    "@freedom-dev-cli/package": "^1.2.3",
+    "@freedom-dev-cli/request": "^1.2.3",
+    "@freedom-dev-cli/utils": "^1.2.3",
     "ejs": "^3.1.6",
     "fs-extra": "^10.0.0",
     "glob": "^7.1.7",

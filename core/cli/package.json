@@ -1,6 +1,6 @@
 {
   "name": "@freedom-dev-cli/core",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "freedom-dev-cli core",
   "keywords": [
     "cli",
@@ -28,9 +28,9 @@
     "access": "public"
   },
   "devDependencies": {
-    "@freedom-dev-cli/exec": "^1.2.2",
-    "@freedom-dev-cli/get-npm-info": "^1.2.2",
-    "@freedom-dev-cli/log": "^1.2.2",
+    "@freedom-dev-cli/exec": "^1.2.3",
+    "@freedom-dev-cli/get-npm-info": "^1.2.3",
+    "@freedom-dev-cli/log": "^1.2.3",
     "import-local": "^3.0.2",
     "npmlog": "^4.1.2"
   },
