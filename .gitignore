@@ -5,5 +5,4 @@ node_modules
 core/**/node_modules
 lerna-debug.index
 yarn.lock
-package-lock.json
 lerna-debug.log
