@@ -1,6 +1,6 @@
 {
   "name": "@freedom-dev-cli/core",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "freedom-dev-cli core",
   "keywords": [
     "cli",
@@ -23,14 +23,14 @@
   "scripts": {
     "test": "echo \"hello word core\""
   },
-  "gitHead": "301a2f3620f10875eb4c0841625459eaa7dc3cd7",
+  "gitHead": "76016cfff99f3ca80754e5bb5f48a1958246439c",
   "publishConfig": {
     "access": "public"
   },
   "devDependencies": {
-    "@freedom-dev-cli/get-npm-info": "file:../../utils/get-npm-info",
-    "@freedom-dev-cli/log": "file:../../utils/log",
-    "@freedom-dev-cli/exec": "file:../exec",
+    "@freedom-dev-cli/exec": "^1.2.3",
+    "@freedom-dev-cli/get-npm-info": "^1.2.3",
+    "@freedom-dev-cli/log": "^1.2.3",
     "import-local": "^3.0.2",
     "npmlog": "^4.1.2"
   },

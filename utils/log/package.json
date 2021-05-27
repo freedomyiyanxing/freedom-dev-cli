@@ -1,6 +1,6 @@
 {
   "name": "@freedom-dev-cli/log",
-  "version": "1.0.0",
+  "version": "1.2.3",
   "description": "log class",
   "keywords": [
     "log"
@@ -31,5 +31,6 @@
   },
   "dependencies": {
     "npmlog": "^4.1.2"
-  }
+  },
+  "gitHead": "76016cfff99f3ca80754e5bb5f48a1958246439c"
 }
